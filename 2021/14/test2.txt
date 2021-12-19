@@ -1,0 +1,4 @@
+ABAB
+
+AB -> C
+CB -> Z
